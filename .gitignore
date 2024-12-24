@@ -1,0 +1,10 @@
+.vscode/*
+.history/
+
+**/.DS_Store
+
+build
+
+test
+.test
+
